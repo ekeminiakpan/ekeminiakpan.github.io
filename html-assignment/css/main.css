@@ -1,0 +1,43 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    background-color: rgb(218, 213, 213);
+}
+
+
+header, footer {
+    background-color: yellowgreen;
+}
+
+
+.site-title {
+    color: rgb(85, 6, 6);
+}
+
+
+#my-image {
+    width: 150px;
+    border-radius: 50px;
+}
+
+
+.my-hobbies {
+    list-style-type: circle;
+}
+
+
+.site-links {
+    list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+    background-color: yellow;
+    border: 3px solid silver;
+}
+
+
+a:hover {
+    background-color: red;
+}
