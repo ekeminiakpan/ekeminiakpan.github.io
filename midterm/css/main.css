@@ -7,13 +7,13 @@
   
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: bisque;
+    background-color: #AAD4CF;
   }
   
   .content {
     max-width: 800px;
     margin: 0 auto;
-    background-color: rgb(226, 218, 201);
+    background-color: #D4E9E7;
   }
   
   .banner {
@@ -100,7 +100,7 @@
   }
   
   form {
-    border: 1px solid rgb(190, 7, 7);
+    border: 1px solid black;
     padding: 1rem
   }
   
@@ -148,5 +148,5 @@
   }
   
   button {
-   padding: 5px;
+   oa
   }
